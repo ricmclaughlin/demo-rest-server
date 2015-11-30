@@ -1,0 +1,16 @@
+{
+  "name": "demorestserver",
+  "version": "1.0.0",
+  "description": "A dead simple REST test server",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ric mclaughlin",
+  "license": "MIT",
+  "devDependencies": {
+    "faker": "^3.0.1",
+    "json-server": "^0.8.3",
+    "lodash": "^3.10.1"
+  }
+}
